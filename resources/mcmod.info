@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ev",
+  "name": "Eagle Vision",
+  "description": "Eagle Vision is used to locate other players that might be dangerous.",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "http://www.alegendstale.tk/",
+  "updateUrl": "",
+  "authorList": ["ALegendsTale"],
+  "credits": "Created by ALegendsTale",
+  "logoFile": "/assets/SaintDenis.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
